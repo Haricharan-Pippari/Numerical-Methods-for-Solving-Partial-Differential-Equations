@@ -10,3 +10,5 @@ This core solves 3 Problems:
 4. Wave equation for given boundary and initial conditions, using explicit and implicit Euler approach for different CFL numbers and also plotting errors.
 
 **Make sure that Main.m and all other function files are in the same folder to execute without errors**
+
+-Haricharan P
